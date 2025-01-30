@@ -1,2 +1,2 @@
 #RTFM
-dotfiles filesn, scripts (perl, python, bash ....) & documentation for certain tasks
+dotfiles, scripts (perl, python, bash ....) & documentation for certain tasks
