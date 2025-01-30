@@ -1,2 +1,2 @@
-# dotfiles, RTFM
-config files for the programs that I use often
+#RTFM
+dotfiles filesn, scripts (perl, python, bash ....) & documentation for certain tasks
