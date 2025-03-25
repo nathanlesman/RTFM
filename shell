@@ -2,7 +2,7 @@ alias ls='ls --color'
 alias ll='ls -lh'
 alias la='ls -ah'
 alias lla='ls -lah'
-alias ..='cd ..'
+alias rr='rm -r'
 alias imacs='emacs -nw'
 
 localectl set-x11-keymap us pc105 "" ctrl:swapcaps
