@@ -3,3 +3,5 @@ alias ll='ls -lh'
 alias la='ls -ah'
 alias lla='ls -lah'
 alias ..='cd ..'
+alias imacs='emacs -nw'
+
