@@ -6,3 +6,10 @@ alias ..='cd ..'
 alias imacs='emacs -nw'
 
 localectl set-x11-keymap us pc105 "" ctrl:swapcaps
+
+# No more cd ../../../..
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias ......='cd ../../../../..'
