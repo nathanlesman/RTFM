@@ -5,3 +5,4 @@ alias lla='ls -lah'
 alias ..='cd ..'
 alias imacs='emacs -nw'
 
+localectl set-x11-keymap us pc105 "" ctrl:swapcaps
