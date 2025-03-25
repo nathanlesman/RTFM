@@ -13,3 +13,7 @@ alias ...='cd ../..'
 alias ....='cd ../../..'
 alias .....='cd ../../../..'
 alias ......='cd ../../../../..'
+
+alias donker='brightnessctl set 10%-'
+alias lichter='brightnessctl set 10%+'
+
