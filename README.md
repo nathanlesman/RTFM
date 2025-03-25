@@ -2,4 +2,4 @@
 dotfiles, scripts (perl, python, bash ....)
 
 ## Install
-'''curl xxx '''
+``` curl xxx ```
